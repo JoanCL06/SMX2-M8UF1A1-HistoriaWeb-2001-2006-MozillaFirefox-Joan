@@ -8,7 +8,7 @@ a Mozilla, queriendo promover exclusivamente el software libre y los estándares
 - Es el navegador web libre y con código abierto que es desarrollado para diferentes 
 plataformas
 - Fue creada por la Corporación Mozilla y Fundación Mozilla, incluyo un nuevo motor en
-su momento**Gecko**, les tomo desarrollarlo casi cuatro años y represento uno de los
+su momento **Gecko**, les tomo desarrollarlo casi cuatro años y represento uno de los
 primeros avances importantes en navegadores web   
 
 
@@ -19,4 +19,4 @@ primeros avances importantes en navegadores web
 
 
 
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+![Mozilla Equipo](C:\Repositorios\SMX2-M8UF1A1-HistoriaWeb-2004-MozillaFirefox-Joan)
